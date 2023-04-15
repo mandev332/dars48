@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#header li:hover {
+  background-color: rgb(153, 153, 204);
+}
+
+#header {
+  margin-top: 20px;
+  list-style-type: none;
+  display: flex;
+  background-color: rgb(118, 118, 194);
+}
+a {
+  text-decoration: none;
+  margin: 10px;
+}
+
+#header li {
+  background-color: rgb(118, 118, 194);
+  text-align: center;
+  width: 100px;
+  padding: 2px;
+}
+
+#list {
+  list-style-type: none;
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.del {
+  display: flex;
+}
+
+.del span a {
+  background-color: rgb(222, 118, 118);
+  color: wheat;
+}

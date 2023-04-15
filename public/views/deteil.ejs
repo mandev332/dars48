@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%-include('head.ejs') %>
+  <body>
+    <form action="/edit/<%= user.id %>" method="post" id="list">
+      <%-include('header.ejs') %> <% for (let u in user){ %>
+      <div>
+        <%= u %> : <input type="text" name="<%= u %>" value="<%= user[u] %>" />
+      </div>
+      <% } %>
+      <div>
+        <button type="submit">Taxrirlash</button>
+      </div>
+    </form>
+  </body>
+</html>

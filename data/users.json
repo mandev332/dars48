@@ -1,0 +1,73 @@
+[
+    {
+        "id": 2,
+        "username": "Ervin Howell",
+        "lastname": "Antonette",
+        "email": "Shanna@melissa.tv",
+        "phone": "010-692-6593 x09125"
+    },
+    {
+        "id": 3,
+        "username": "Clementine Bauch",
+        "lastname": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "phone": "1-463-123-4447"
+    },
+    {
+        "id": 5,
+        "username": "Chelsey Dietrich",
+        "lastname": "Kamren",
+        "email": "Lucio_Hettinger@annie.ca",
+        "phone": "(254)954-1289"
+    },
+    {
+        "id": 6,
+        "username": "Mrs. Dennis Schulist",
+        "lastname": "Leopoldo_Corkery",
+        "email": "Karley_Dach@jasper.info",
+        "phone": "1-477-935-8478 x6430"
+    },
+    {
+        "id": 7,
+        "username": "Kurtis Weissnat",
+        "lastname": "Elwyn.Skiles",
+        "email": "Telly.Hoeger@billy.biz",
+        "phone": "210.067.6132"
+    },
+    {
+        "id": 8,
+        "username": "Nicholas Runolfsdottir V",
+        "lastname": "Maxime_Nienow",
+        "email": "Sherwood@rosamond.me",
+        "phone": "586.493.6943 x140"
+    },
+    {
+        "id": 9,
+        "username": "Glenna Reichert",
+        "lastname": "Delphine",
+        "email": "Chaim_McDermott@dana.io",
+        "phone": "(775)976-6794 x41206"
+    },
+    {
+        "id": 10,
+        "username": "Clementina DuBuque",
+        "lastname": "Moriah.Stanton",
+        "email": "Rey.Padberg@karina.biz",
+        "phone": "024-648-3804"
+    },
+    {
+        "username": "Qulmat",
+        "lastname": "Mahmudov",
+        "email": "Dach@jasper.info",
+        "phone": "998948512323",
+        "id": 11
+    },
+    {
+        "username": "Nodir",
+        "lastname": "Qobilov",
+        "contact": "+998954566650",
+        "email": "nuimadur@mm.com",
+        "password": "11233123",
+        "id": 12
+    }
+]

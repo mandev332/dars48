@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%-include('head.ejs') %>
+  <body>
+    <button id="btn">refresh</button>
+    <%-include('header.ejs') %> <% for (let i of users){ %>
+    <li><%= i.username %></li>
+    <% } %>
+    <script src="/js/home.js"></script>
+  </body>
+</html>
